@@ -89,6 +89,12 @@ main {
                         background: color(primary-light);
                         border-radius: 50%;
                         margin-right: 10px;
+                        .check-icon {
+                            font-size: 2.2rem;
+                            position: absolute;
+                            left: -2px;
+                            top: -2px;
+                        }
                     }
                     strong {
                         display: inline-block;
